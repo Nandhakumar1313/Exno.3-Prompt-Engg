@@ -1,4 +1,4 @@
-V# Exno-3-Prompt-Engg
+# Exno-3-Prompt-Engg
 ## Name: NANDHAKUMAR G R
 ## Reg No: 212222100029
 # Ex.No: 3 	
